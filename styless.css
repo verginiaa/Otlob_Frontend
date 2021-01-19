@@ -1,0 +1,131 @@
+.listat a{
+    color: black;
+}
+.n a{
+    color: indigo;
+    font-size: 40px;
+    position: relative;
+
+    left: 5px;
+    bottom: -8px;
+
+}
+body, html {
+    height: 100%;
+  }
+
+  .container-fluid {
+    /* The image used */
+    background-image: url(https://images.deliveryhero.io/image/otlob/homeBanners/92398a95-359d-4589-9_636699244082471114.jpeg);
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+ p.sty{
+     color: white;
+     font-size: 1cm;
+    text-align: center;
+    position: relative;
+    bottom:-30px;
+ }
+ .nus{
+     background-color: rgba(250,250, 250, 0.3);
+     position: relative;
+     bottom:-50px;
+     width: 17cm;
+     height: 9cm;
+     left: 240px;
+ }
+ p.b{
+     color: white;
+     font-size: 6mm;
+     position: relative;
+     text-align: center;
+
+     left: 110px;
+     bottom:-30px;
+ }
+ input[type=text] {
+    width: 85%;
+    box-sizing: initial;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: white;
+    background-image: url(https://www.otlob.com/images/Otlob/search-loc.svg);
+    background-position: 0px 0px; 
+    background-repeat: no-repeat;
+    padding: 8px 8px 8px 8px;
+  }
+  select{
+    width: 95%;
+    box-sizing: initial;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: white;
+    background-image: url(https://www.otlob.com/images/Otlob/search-cuisines.svg);
+    background-position: 0pc 0pc; 
+    background-repeat: no-repeat;
+    padding: 8px 8px 8px 8px;
+    top:40px;
+  }
+  .tzbit{
+    position: relative;
+    bottom:-90px;
+  }
+  input[type=submit] {
+    background-color: #45a049;
+    width: 95%;
+    box-sizing: initial;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    font-size: 20px;
+  }
+  p.manzr{
+      margin:30px;
+  }
+  p.as8r{
+    color: darkgrey;
+    font-size: 5mm;
+   text-align: center;
+   position: relative;
+   bottom:-30px;
+  }
+  p.gded{
+    color: dimgrey;
+    font-size: 3mm;
+   text-align: center;
+   position: relative;
+  }
+ 
+  .listatTa7t a{
+    font-size: 4mm;
+    color: white;
+    margin:20px;
+  }
+  .containerr-fluid{
+      background-color: indigo;
+  }
+  p.belowT{
+      color: white;
+      font: bold;
+      font-size: 6mm;
+      margin: 20px;
+  }
+  .t a{
+    color: white;
+    font-size: 4mm;
+    margin: 20px;
+
+  }
+  p.fin{
+      color: white;
+      font-size: 3mm;
+      font: italic;
+  }
